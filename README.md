@@ -64,3 +64,7 @@ Add GUI with Streamlit or Tkinter
 Improve accuracy with punctuation restoration and multi-language support
 
 Deploy as a web API or integrate with mobile apps
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/1f7ac11e-2ba4-40b9-869d-e10399634dfa)
